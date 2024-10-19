@@ -1,0 +1,11 @@
+@media (min-width:1200px ) and (max-width:1400px){
+    #ojax{
+        font-size: 21rem;
+    }
+}
+
+@media (min-width:900px ) and (max-width:1200px){
+    #ojax{
+        font-size: 17rem;
+    }
+}
