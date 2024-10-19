@@ -63,7 +63,6 @@ coverage/
 *.swn
 
 # npm package lock
-package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
